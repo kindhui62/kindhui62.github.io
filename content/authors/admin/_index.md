@@ -63,7 +63,7 @@ skills:
       - name: C#
         description: ''
         percent: 80
-        icon: csharp
+        icon: code
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
