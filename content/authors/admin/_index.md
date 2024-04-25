@@ -3,10 +3,10 @@
 title: 孔德慧
 
 # Name pronunciation (optional)
-name_pronunciation: De Hui Kong
+name_pronunciation: Dehui Kong
 
 # Full name (for SEO)
-first_name: De Hui
+first_name: Dehui
 last_name: Kong
 
 # Status emoji
