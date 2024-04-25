@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 孔德慧
+title: 孔德慧(Dehui Kong)
 
 # Name pronunciation (optional)
-name_pronunciation: Dehui Kong
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Dehui
