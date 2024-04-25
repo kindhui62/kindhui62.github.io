@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 孔德慧(Dehui Kong)
+title: Dehui Kong
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -11,40 +11,39 @@ last_name: Kong
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😄
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Master's Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Jinan
+    url: https://www.ujn.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include human-computer interaction, multimodal fusion, intentional understanding and human-computer collaboration.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Human-Computer Interaction
+  - Intentional Understanding
+  - Multimodal Fusion
+  - Human-Computer Collaboration
+  - VR and MR
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.S. in Human-Computer Interaction and Virtual Reality
+      institution: University of Jinan
+      year: 2024
+    - course: B.S. in Computer Science and Technology
+      institution: University of Jinan
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -53,37 +52,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: UNITY
         description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
+        percent: 80
+        icon: unity
+        icon_pack: fab
+      - name: C#
         description: ''
-        percent: 40
-        icon: database
+        percent: 80
+        icon: csharp
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: TRAVELING
         description: ''
         percent: 100
-        icon: cat
+        icon: plane
         icon_pack: fas
-      - name: Photography
+      - name: DOGS
+        description: ''
+        percent: 90
+        icon: dog
+        icon_pack: fas
+      - name: MOVIE
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: film
         icon_pack: fas
 
 # Social/Academic Networking
@@ -96,7 +95,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/kong_dehui19145
     label: Follow me on Twitter
     display:
       header: true
@@ -105,7 +104,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/kindhui62
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -120,5 +119,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dehui Kong is a master's student of human-computer interaction and virtual reality. Her research interests include human-computer interaction, multimodal fusion, intentional understanding and human-computer collaboration.
 {style="text-align: justify;"}
