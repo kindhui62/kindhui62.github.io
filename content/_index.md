@@ -185,8 +185,8 @@ sections:
         #exclude_featured: true
     design:
       columns: '2'
-      view: card
-      # view: citation
+      # view: card
+      view: citation
 
   #- block: collection
   #  id: talks
