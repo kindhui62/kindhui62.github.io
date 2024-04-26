@@ -119,7 +119,7 @@ social:
 highlight_name: true
 ---
 
-Hi!! I am Dehui Kong, a master's student at the University of Jinan.
+Hi!!👋 I am Dehui Kong, a master's student at the University of Jinan.
 
 My research interests include human-computer interaction, multimodal fusion, intentional understanding, virtual reality and human-computer collaboration.
 
