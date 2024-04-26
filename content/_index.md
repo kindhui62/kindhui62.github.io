@@ -36,7 +36,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-        
+
   - block: about.biography
     id: about
     content:
@@ -261,7 +261,7 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '36.91'
+        latitude: '36.61'
         longitude: '116.97'  
       contact_links:
         - icon: twitter
