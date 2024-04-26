@@ -36,6 +36,7 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+        
   - block: about.biography
     id: about
     content:
@@ -50,6 +51,7 @@ sections:
       username: admin
     design:
       columns: '1'
+
   #- block: experience
   #  content:
   #    title: Experience
@@ -127,6 +129,7 @@ sections:
   #        url: ''
   #  design:
   #    columns: '2'
+
   - block: collection
     id: posts
     content:
@@ -154,6 +157,49 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+  
+  - block: collection
+    id: featured
+    content:
+      title: Featured Publications
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    content:
+      title: Recent Publications
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+
+  #- block: collection
+  #  id: talks
+  #  content:
+  #    title: Recent & Upcoming Talks
+  #    filters:
+  #      folders:
+  #        - event
+  #  design:
+  #    columns: '2'
+  #    view: compact
+  # - block: tag_cloud
+  #  content:
+  #    title: Popular Topics
+  #  design:
+  #    columns: '2'
+
   - block: portfolio
     id: projects
     content:
@@ -175,60 +221,22 @@ sections:
           tag: Deep Learning
         - name: Other
           tag: Demo
-    #design:
+    design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
-    #  columns: '1'
-    #  view: showcase
-      # For Showcase view, flip alternate rows?
-    #  flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
       columns: '1'
-  #- block: collection
-  #  id: featured
+      view: showcase
+      # For Showcase view, flip alternate rows?
+      flip_alt_rows: false
+
+  # - block: markdown
   #  content:
-  #    title: Featured Publications
-  #    filters:
-  #      folders:
-  #        - publication
-  #      featured_only: true
+  #    title: Gallery
+  #    subtitle: ''
+  #    text: |-
+  #      {{< gallery album="demo" >}}
   #  design:
-  #    columns: '2'
-  #    view: card
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  #- block: collection
-  #  id: talks
-  #  content:
-  #    title: Recent & Upcoming Talks
-  #    filters:
-  #      folders:
-  #        - event
-  #  design:
-  #    columns: '2'
-  #    view: compact
-  # - block: tag_cloud
-  #  content:
-  #    title: Popular Topics
-  #  design:
-  #    columns: '2'
+  #    columns: '1'
+
   - block: contact
     id: contact
     content:
@@ -253,7 +261,7 @@ sections:
       #  - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '36.62'
+        latitude: '36.91'
         longitude: '116.97'  
       contact_links:
         - icon: twitter
