@@ -1,8 +1,11 @@
 ---
-title: "An example journal article"
+title: "Intentional Understanding and Human-Computer Collaboration: A Smart Pen for Solid Geometry Teaching"
 authors:
 - admin
-- Robert Ford
+- Zhiquan Feng
+- Tao Xu
+- Zishuo Xia
+- Weina Li
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
