@@ -1,23 +1,29 @@
 ---
-title: 'An example conference paper'
+title: 'PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Hongyue Wang
+  - Sijie Zhou
+  - Hong Cui
+  - Zhiquan Feng
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - ''
+  - ''
+  - ''
+  - ''
+  - 'corresponding author'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: '2024-05-14T00:00:00Z'
+doi: 'https://doi.org/10.1145/3613905.3650789'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,13 +31,13 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*
+publication_short: In *CHI EA ’24*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: With the continuous advancement of technologies such as VR and sensors, pen-based interaction has transcended the limitations of 2D interfaces. Although research on aspects of Human-Pen Interaction, such as pen grip, gesture operations, and tactile support, has been extensive, a thorough exploration of active collaborative interaction with the pen remains  relatively limited. Active collaboration in Human-Pen Interaction refers to the system understanding the participants’ interaction intentions and actively providing feedback and guidance for collaboration. Facing the dilemma of inaccurate selection in pen interactions for teachers in solid geometry teaching, we have designed an interactive system for solid geometry teaching with active collaboration capabilities, consisting of a depth camera, a smart pen embedded with multiple sensors, and a virtual geometry teaching platform. By inviting participants to experience the system and collecting quantitative data on user experience and attitudes, the results indicate that the system can assist in geometry teaching with more precise and flexible interaction methods.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Overall, this study provides novel technological support for teachers in the teaching of solid geometry and offers valuable references for exploring the application of pen-based interaction technology in 3D space.We anticipate that the outcomes of this research will have a positive impact in the field of educational technology, contributing to the improvement of teaching effectiveness.
 
 tags: []
 
@@ -44,13 +50,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_code: ''
+#url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+#url_slides: ''
+#url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
