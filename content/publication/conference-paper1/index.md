@@ -4,11 +4,11 @@ authors:
 - admin
 author_notes:
 - "Correspondence"
-date: "2022-03-01T00:00:00Z"
-doi: "https://doi.org/10.1109/ICCGIV57403.2022.00040"
+date: "2023-03-01T00:00:00Z"
+doi: "https://doi.org/10.1080/10447318.2023.2267296"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-05-14T00:00:00Z"
+publishDate: "2023-05-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -16,16 +16,10 @@ publishDate: "2022-05-14T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *2022 2nd International Conference on Computer Graphics, Image and Virtualization (ICCGIV)* (pp. 169-172)"
-publication_short: ""
+publication: "In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*"
+publication_short: "In *CHI EA ’24*"
 
-abstract: This paper presents a dwell point detection algorithm for smart pen. The main innovations of the method
-are: (a) The tracking of a smart pen is achieved by a common monocular camera. (b) A method of vertex adsorption
-is proposed. (c) The definition of a dwell point is introduced, and the auxiliary line intent is calculated by detecting
-the dwell point. Compared to the collision body detection method in Unity3D, the method in this paper improves the
-accuracy of doing auxiliary line intent and the smoothness of user operation. The effectiveness of the method is
-demonstrated by the use of the method in a smart pen interacting with a Unity3D-based three-dimensional geometry
-teaching system.
+abstract: With the continuous advancement of technologies such as VR and sensors, pen-based interaction has transcended the limitations of 2D interfaces. Although research on aspects of Human-Pen Interaction, such as pen grip, gesture operations, and tactile support, has been extensive, a thorough exploration of active collaborative interaction with the pen remains  relatively limited. Active collaboration in Human-Pen Interaction refers to the system understanding the participants’ interaction intentions and actively providing feedback and guidance for collaboration. Facing the dilemma of inaccurate selection in pen interactions for teachers in solid geometry teaching, we have designed an interactive system for solid geometry teaching with active collaboration capabilities, consisting of a depth camera, a smart pen embedded with multiple sensors, and a virtual geometry teaching platform. By inviting participants to experience the system and collecting quantitative data on user experience and attitudes, the results indicate that the system can assist in geometry teaching with more precise and flexible interaction methods.
 
 # Summary. An optional shortened abstract.
 summary: Overall, this study provides novel technological support for teachers in the teaching of solid geometry and offers valuable references for exploring the application of pen-based interaction technology in 3D space.We anticipate that the outcomes of this research will have a positive impact in the field of educational technology, contributing to the improvement of teaching effectiveness.
