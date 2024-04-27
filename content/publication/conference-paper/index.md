@@ -19,11 +19,11 @@ author_notes:
   - ''
   - 'corresponding author'
 
-date: '2024-05-14T00:00:00Z'
+date: '2024-03-01T00:00:00Z'
 doi: 'https://doi.org/10.1145/3613905.3650789'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2024-05-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -39,10 +39,10 @@ abstract: With the continuous advancement of technologies such as VR and sensors
 # Summary. An optional shortened abstract.
 summary: Overall, this study provides novel technological support for teachers in the teaching of solid geometry and offers valuable references for exploring the application of pen-based interaction technology in 3D space.We anticipate that the outcomes of this research will have a positive impact in the field of educational technology, contributing to the improvement of teaching effectiveness.
 
-tags: []
+#tags: []
 
 # Display this page in the Featured widget?
-featured: true
+#featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -50,20 +50,20 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-#url_code: ''
-#url_dataset: ''
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
-#url_slides: ''
-#url_source: ''
+url_slides: ''
+url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+#image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -71,22 +71,13 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
