@@ -28,11 +28,11 @@ publishDate: '2024-05-14T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["Conference paper"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*
-publication_short: In *CHI EA ’24*
+publication: "In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*"
+publication_short: "In *CHI EA ’24*"
 
 abstract: With the continuous advancement of technologies such as VR and sensors, pen-based interaction has transcended the limitations of 2D interfaces. Although research on aspects of Human-Pen Interaction, such as pen grip, gesture operations, and tactile support, has been extensive, a thorough exploration of active collaborative interaction with the pen remains  relatively limited. Active collaboration in Human-Pen Interaction refers to the system understanding the participants’ interaction intentions and actively providing feedback and guidance for collaboration. Facing the dilemma of inaccurate selection in pen interactions for teachers in solid geometry teaching, we have designed an interactive system for solid geometry teaching with active collaboration capabilities, consisting of a depth camera, a smart pen embedded with multiple sensors, and a virtual geometry teaching platform. By inviting participants to experience the system and collecting quantitative data on user experience and attitudes, the results indicate that the system can assist in geometry teaching with more precise and flexible interaction methods.
 
