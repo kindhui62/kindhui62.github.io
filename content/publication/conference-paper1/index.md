@@ -4,11 +4,11 @@ authors:
 - admin
 author_notes:
 - "Correspondence"
-date: "2023-03-01T00:00:00Z"
+date: "2022-03-01T00:00:00Z"
 doi: "https://doi.org/10.1109/ICCGIV57403.2022.00040"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-14T00:00:00Z"
+publishDate: "2022-05-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +28,8 @@ demonstrated by the use of the method in a smart pen interacting with a Unity3D-
 teaching system.
 
 # Summary. An optional shortened abstract.
-#summary: 
+summary: Overall, this study provides novel technological support for teachers in the teaching of solid geometry and offers valuable references for exploring the application of pen-based interaction technology in 3D space.We anticipate that the outcomes of this research will have a positive impact in the field of educational technology, contributing to the improvement of teaching effectiveness.
+
 #tags:
 #- Source Themes
 #featured: false
