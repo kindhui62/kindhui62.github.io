@@ -8,12 +8,12 @@ authors:
 - Weina Li
 author_notes:
 - ""
-- ""
-- ""
-- ""
 - "Correspondence"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- ""
+- ""
+- ""
+date: "2023-09-29T00:00:00Z"
+doi: "https://doi.org/10.1080/10447318.2023.2267296"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-16T00:00:00Z"
@@ -32,15 +32,15 @@ abstract: The current teaching mode in geometry mainly focuses on two-dimensiona
 # Summary. An optional shortened abstract.
 summary: This paper presents a smart pen and virtual geometry teaching platform designed for geometry experimental teaching. The platform can sense and understand users' behavior in real-time, and addresses the problem of unclear lectures and drawings in the teaching of three-dimensional geometry, and cultivates the spatial sense of students through the use of a point selection strategy based on a standardized topological equivalence model, which enables precise selection of points. During the teaching process, teachers can use multi-source channels, such as voice, sensors, and gestures, to input information. The intention understanding model is then used to fuse the multimodal input data of teachers and capture the operational intent, achieving human-computer collaboration and completing the smooth interaction between teacher and intelligent pen. Additionally, the paper proposes an error correction mechanism based on implicit interaction through the analysis of teaching scenarios. This mechanism reduces the possibility of errors in intention understanding, improves the reliability of the system, and provides better technical support for geometry experimental teaching.
 
-tags:
-- Source Themes
-featured: false
+#tags:
+#- Source Themes
+#featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.tandfonline.com/doi/figure/10.1080/10447318.2023.2267296?scroll=top&needAccess=true
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -67,7 +67,7 @@ projects: []
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% callout note %}}
