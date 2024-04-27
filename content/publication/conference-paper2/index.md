@@ -21,11 +21,11 @@ publishDate: "2023-10-16T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Human–Computer Interaction*, 1-20"
-publication_short: ""
+publication: "In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*"
+publication_short: "In *CHI EA ’24*"
 
 abstract: The current teaching mode in geometry mainly focuses on two-dimensional levels, and the teaching tools utilized are static and not interactive. This paper proposes the use of a smart pen for three-dimensional geometry experimental teaching and a multimodal intention understanding and human-computer collaboration algorithm for the smart pen. The primary innovations of this paper lie in the development of a smart pen and a virtual platform for geometry education tailored for geometry experimental instruction. This system can promptly perceive and comprehend user behavior in real-time. Furthermore, a standardized topological equivalence model is proposed as the basis for a point selection strategy. By establishing correspondence between the modeled point selection model and the actual operation scene, the behavioral intent imposed on the model is applied to the operation object of the actual scene. Additionally, CNN-based and information entropy-based multimodal fusion intention understanding models are proposed for different input modalities to capture the operational intention of users by fusing their multimodal input data. The algorithm further improves the accuracy rate through an error correction mechanism based on implicit interaction to achieve better human-computer collaboration. The algorithm proposed in this paper has resulted in a 0.47-second improvement in point selection average time and achieved an intent understanding accuracy of 98.21%. This improvement leads to better fault tolerance and fluency during human-computer interaction, reduces the cognitive load on the user, and improves the overall user experience.
 
