@@ -1,5 +1,5 @@
 ---
-title: "Intentional Understanding and Human-Computer Collaboration: A Smart Pen for Solid Geometry Teaching"
+title: "PenLab: Towards Understanding of Active Collaboration for Solid Geometry Teaching"
 authors:
 - admin
 - Zhiquan Feng
