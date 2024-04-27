@@ -4,11 +4,11 @@ authors:
 - admin
 author_notes:
 - "Correspondence"
-date: "2023-03-01T00:00:00Z"
+date: "2022-03-01T00:00:00Z"
 doi: "https://doi.org/10.1109/ICCGIV57403.2022.00040"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-05-14T00:00:00Z"
+publishDate: "2022-05-14T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
