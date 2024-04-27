@@ -21,7 +21,7 @@ publishDate: "2023-10-16T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Journal of Human–Computer Interaction*, 1-20"
