@@ -5,7 +5,7 @@ authors:
 author_notes:
 - "Correspondence"
 date: "2023-03-01T00:00:00Z"
-doi: "https://doi.org/10.1080/10447318.2023.2267296"
+doi: "https://doi.org/10.1109/ICCGIV57403.2022.00040"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-05-14T00:00:00Z"
@@ -16,11 +16,11 @@ publishDate: "2023-05-14T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *Extended Abstracts of the CHI Conference on Human Factors in Computing Systems*"
+publication: "In *2022 2nd International Conference on Computer Graphics, Image and Virtualization (ICCGIV)*(pp. 169-172)."
 publication_short: ""
 
 abstract: This paper presents a dwell point detection algorithm for smart pen. The main innovations of the method
-are: (a) The tracking of a smart pen is achieved by a common monocular camera. (b) A method of vertex adsorption
+are (a) The tracking of a smart pen is achieved by a common monocular camera. (b) A method of vertex adsorption
 is proposed. (c) The definition of a dwell point is introduced, and the auxiliary line intent is calculated by detecting
 the dwell point. Compared to the collision body detection method in Unity3D, the method in this paper improves the
 accuracy of doing auxiliary line intent and the smoothness of user operation. The effectiveness of the method is
@@ -28,7 +28,7 @@ demonstrated by the use of the method in a smart pen interacting with a Unity3D-
 teaching system.
 
 # Summary. An optional shortened abstract.
-summary: Overall, this study provides novel technological support for teachers in the teaching of solid geometry and offers valuable references for exploring the application of pen-based interaction technology in 3D space.We anticipate that the outcomes of this research will have a positive impact in the field of educational technology, contributing to the improvement of teaching effectiveness.
+#summary: 
 
 #tags:
 #- Source Themes
