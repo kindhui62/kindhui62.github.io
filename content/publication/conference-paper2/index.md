@@ -13,7 +13,7 @@ author_notes:
 - ""
 - "Correspondence"
 date: "2023-09-29T00:00:00Z"
-doi: "https://doi.org/10.1109/ICCGIV57403.2022.00040"
+doi: "https://doi.org/10.1080/10447318.2023.2267296"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-10-16T00:00:00Z"
