@@ -7,13 +7,16 @@ authors:
 - Zishuo Xia
 - Weina Li
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- ""
+- ""
+- ""
+- ""
+- "Correspondence"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-10-16T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,13 +24,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*International Journal of Human–Computer Interaction,*1-20"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: The current teaching mode in geometry mainly focuses on two-dimensional levels, and the teaching tools utilized are static and not interactive. This paper proposes the use of a smart pen for three-dimensional geometry experimental teaching and a multimodal intention understanding and human-computer collaboration algorithm for the smart pen. The primary innovations of this paper lie in the development of a smart pen and a virtual platform for geometry education tailored for geometry experimental instruction. This system can promptly perceive and comprehend user behavior in real-time. Furthermore, a standardized topological equivalence model is proposed as the basis for a point selection strategy. By establishing correspondence between the modeled point selection model and the actual operation scene, the behavioral intent imposed on the model is applied to the operation object of the actual scene. Additionally, CNN-based and information entropy-based multimodal fusion intention understanding models are proposed for different input modalities to capture the operational intention of users by fusing their multimodal input data. The algorithm further improves the accuracy rate through an error correction mechanism based on implicit interaction to achieve better human-computer collaboration. The algorithm proposed in this paper has resulted in a 0.47-second improvement in point selection average time and achieved an intent understanding accuracy of 98.21%. This improvement leads to better fault tolerance and fluency during human-computer interaction, reduces the cognitive load on the user, and improves the overall user experience.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: This paper presents a smart pen and virtual geometry teaching platform designed for geometry experimental teaching. The platform can sense and understand users' behavior in real-time, and addresses the problem of unclear lectures and drawings in the teaching of three-dimensional geometry, and cultivates the spatial sense of students through the use of a point selection strategy based on a standardized topological equivalence model, which enables precise selection of points. During the teaching process, teachers can use multi-source channels, such as voice, sensors, and gestures, to input information. The intention understanding model is then used to fuse the multimodal input data of teachers and capture the operational intent, achieving human-computer collaboration and completing the smooth interaction between teacher and intelligent pen. Additionally, the paper proposes an error correction mechanism based on implicit interaction through the analysis of teaching scenarios. This mechanism reduces the possibility of errors in intention understanding, improves the reliability of the system, and provides better technical support for geometry experimental teaching.
 
 tags:
 - Source Themes
